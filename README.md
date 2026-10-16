@@ -23,7 +23,7 @@ This tool automates the migration of inline build settings from `project.pbxproj
 
 ```bash
 # Clone the repository
-git clone https://github.com/igrsoft/extract-build-settings.git
+git clone https://github.com/Agnidia/extract-build-settings.git
 cd extract-build-settings
 
 # No dependencies required - uses Python 3 standard library only
